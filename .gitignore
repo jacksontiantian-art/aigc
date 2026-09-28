@@ -1,0 +1,18 @@
+# 密钥: .mcp.json 内含 Tavily key, 模板见 .mcp.json.example
+.mcp.json
+.env
+.env.*
+.claude/settings.local.json
+
+# 生成产物(图/视频/音频), 体积大且可复现, 只提交提示词和参数
+outputs/
+
+# 本地模型权重 / 缓存
+*.safetensors
+*.ckpt
+*.gguf
+__pycache__/
+node_modules/
+
+# 调研临时目录(子代理抓取的原文/sparse clone), 整理完即删
+.tmp-research/

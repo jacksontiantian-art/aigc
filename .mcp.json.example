@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "tavily": {
+      "type": "http",
+      "url": "https://mcp.tavily.com/mcp/?tavilyApiKey=<YOUR_TAVILY_API_KEY>",
+      "description": "Tavily 远程 MCP(联网搜索/抓取/爬取/研究: tavily_search/extract/crawl/map/research)。key 仅在本地 .mcp.json(已 gitignore), 模板见 .mcp.json.example。"
+    }
+  }
+}

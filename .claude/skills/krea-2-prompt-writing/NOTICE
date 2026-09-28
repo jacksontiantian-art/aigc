@@ -1,0 +1,6 @@
+references/expansion.txt and references/prompting.md are unmodified copies of docs/expansion.txt and
+docs/prompting.md from https://github.com/krea-ai/krea-2 at commit
+db3984fbc6e13b34c0064990fc2d95ac64d00058 (2026-07-24), licensed under the Apache License 2.0.
+LICENSE is a copy of that repository's LICENSE.md.
+The Krea 2 model weights are licensed separately under the Krea 2 Community License and are not part of this skill.
+SKILL.md is original work of this repository.

@@ -1,0 +1,8 @@
+references/pe.py is an unmodified copy of pe.py from the official Tongyi-MAI Hugging Face Space
+https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo (commit 9baf60ec91e2546b60200b2fdb44ee076a19d353,
+uploaded by Tongyi-MAI member QJerry), retrieved 2026-09-27. 2370 bytes; the template text was checked
+character-for-character against an independent copy (Koko-boya/Comfyui-Z-Image-Utilities@6e07c28).
+references/space-examples.md quotes EXAMPLE_PROMPTS from the same Space's app.py verbatim.
+The Space does not state a separate license (unverified). LICENSE is the Apache License 2.0 from
+https://github.com/Tongyi-MAI/Z-Image (commit 26f23ed), under which the Z-Image models are released.
+SKILL.md is original work of this repository.
